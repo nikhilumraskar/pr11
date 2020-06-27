@@ -1,0 +1,4 @@
+ - The project is done using TCPDF library.
+ - Added to 2 function is PdfManage.php to generate pdf from url links (i.e addPDFURL, mergePDFURL)
+ - run "php pdf-merger.php" from the project directory
+ -
